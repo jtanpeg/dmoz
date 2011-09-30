@@ -4,7 +4,7 @@ from scrapy.selector import HtmlXPathSelector
 from dmoz.items import DmozItem
 
 class DmozSpider(BaseSpider):
-	name = "dmoz"
+	name = "dmoz.org"
 	allowed_domains = ["dmoz.org"]
 	start_urls = [
 		"http://www.dmoz.org/Computers/Programming/Languages/Python/Books/",
@@ -12,7 +12,7 @@ class DmozSpider(BaseSpider):
 	]
 
 	def parse(self, response):
-		hxs = HtmlXPathSelector(response) #initiate the selector
+		hxs = HtmlXPathSelector(response) #initiate the selectors
 		sites = hxs.select('//ul/li')
 		items = []		
 		for site in sites:
