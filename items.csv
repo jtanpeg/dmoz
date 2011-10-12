@@ -1,13 +1,9 @@
 desc,link,title
-[u'\n                '],[u'/'],[u'Top']
-[],[u'/Computers/'],[u'Computers']
-[],[u'/Computers/Programming/'],[u'Programming']
-[],[u'/Computers/Programming/Languages/'],[u'Languages']
-[],[u'/Computers/Programming/Languages/Python/'],[u'Python']
-"[u'\n                  \t', u'\xa0', u'\n                ']",[],[]
-"[u'\n                        ', u' \n                        ', u'\n                    ']",[u'/Computers/Programming/Languages/Python/Resources/'],[u'Computers: Programming: Languages: Python: Resources']
-"[u'\n                        ', u' \n                        ', u'\n                    ']",[u'/Computers/Programming/Languages/Ruby/Books/'],[u'Computers: Programming: Languages: Ruby: Books']
-"[u'\n                    \t', u'\n                        ', u'\n\t\t\t\t\t']",[u'/World/Deutsch/Computer/Programmieren/Sprachen/Python/B%C3%BCcher/'],[u'German']
+"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - A directory of free Python and Zope hosting providers, with reviews and ratings.\n                    \n                ']",[u'http://www.oinko.net/freepython/'],[u'Free Python and Zope Hosting Directory']
+"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - Features Python books, resources, news and articles.\n                    \n                ']",[u'http://oreilly.com/python/'],"[u""O'Reilly Python Center""]"
+"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python.\n                    \n                ']",[u'http://www.python.org/dev/'],"[u""Python Developer's Guide""]"
+"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - Scripts, examples and news about Python programming for the Windows platform.\n                    \n                ']",[u'http://win32com.goermezer.de/'],[u'Social Bug']
+"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - Contains links to assorted resources from the Python universe, compiled by PythonWare.\n                    \n                ']",[u'http://www.pythonware.com/daily/'],"[u""eff-bot's Daily Python URL""]"
 "[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161769. Printed edition of official tutorial, for v2.x, from Python.org. [Network Theory, online]\n                    \n                ']",[u'http://www.network-theory.co.uk/python/intro/'],[u'An Introduction to Python']
 "[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - By Wesley J. Chun; Prentice Hall PTR, 2001, ISBN 0130260363. For experienced developers to improve extant skills; professional level examples. Starts by introducing syntax, objects, error handling, functions, classes, built-ins. [Prentice Hall]\n                    \n                ']","[u'http://www.pearsonhighered.com/educator/academic/product/0,,0130260363,00%2Ben-USS_01DBC.html']",[u'Core Python Programming']
 "[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - The primary goal of this book is to promote object-oriented design using Python and to illustrate the use of the emerging object-oriented design patterns.\r\nA secondary goal of the book is to present mathematical tools just in time. Analysis techniques and proofs are presented as needed and in the proper context.\n                    \n                ']",[u'http://www.brpreiss.com/books/opus7/html/book.html'],[u'Data Structures and Algorithms with Object-Oriented Design Patterns in Python']
@@ -30,15 +26,3 @@ desc,link,title
 "[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - By Ivan Van Laningham; Sams Publishing, 2000, ISBN 0672317354. Split into 24 hands-on, 1 hour lessons; steps needed to learn topic: syntax, language features, OO design and programming, GUIs (Tkinter), system administration, CGI. [Sams Publishing]\n                    \n                ']",[u'http://www.informit.com/store/product.aspx?isbn=0672317354'],[u'Sams Teach Yourself Python in 24 Hours']
 "[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - By David Mertz; Addison Wesley. Book in progress, full text, ASCII format. Asks for feedback. [author website, Gnosis Software, Inc.]\n                    \n                ']",[u'http://gnosis.cx/TPiP/'],[u'Text Processing in Python']
 "[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - By Sean McGrath; Prentice Hall PTR, 2000, ISBN 0130211192, has CD-ROM. Methods to build XML applications fast, Python tutorial, DOM and SAX, new Pyxie open source XML processing library. [Prentice Hall PTR]\n                    \n                ']",[u'http://www.informit.com/store/product.aspx?isbn=0130211192'],[u'XML Processing with Python']
-[u'\n                '],[u'/'],[u'Top']
-[],[u'/Computers/'],[u'Computers']
-[],[u'/Computers/Programming/'],[u'Programming']
-[],[u'/Computers/Programming/Languages/'],[u'Languages']
-[],[u'/Computers/Programming/Languages/Python/'],[u'Python']
-"[u'\n                  \t', u'\xa0', u'\n                ']",[],[]
-"[u'\n                        ', u' \n                        ', u'\n                    ']",[u'/Computers/Programming/Resources/'],[u'Computers: Programming: Resources']
-"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - A directory of free Python and Zope hosting providers, with reviews and ratings.\n                    \n                ']",[u'http://www.oinko.net/freepython/'],[u'Free Python and Zope Hosting Directory']
-"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - Features Python books, resources, news and articles.\n                    \n                ']",[u'http://oreilly.com/python/'],"[u""O'Reilly Python Center""]"
-"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python.\n                    \n                ']",[u'http://www.python.org/dev/'],"[u""Python Developer's Guide""]"
-"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - Scripts, examples and news about Python programming for the Windows platform.\n                    \n                ']",[u'http://win32com.goermezer.de/'],[u'Social Bug']
-"[u'\n\t\t\t\n                \t', u' \n\t\t\t\n\t\t\t\t\t\n                    - Contains links to assorted resources from the Python universe, compiled by PythonWare.\n                    \n                ']",[u'http://www.pythonware.com/daily/'],"[u""eff-bot's Daily Python URL""]"

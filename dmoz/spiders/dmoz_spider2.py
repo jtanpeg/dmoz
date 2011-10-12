@@ -4,7 +4,7 @@ from scrapy.selector import HtmlXPathSelector
 from dmoz.items import DmozItem
 
 class DmozSpider(BaseSpider): #create new class DmozSpider inherit from BaseSpider
-	name = "dmoz.org"
+	name = "dmoz2"
 	allowed_domains = ["dmoz.org"]
 	start_urls = [
 		"http://www.dmoz.org/Computers/Programming/Languages/Python/Books/",
